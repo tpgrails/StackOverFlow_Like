@@ -18,13 +18,13 @@ A user is able to :
 -	View a question
 -	Answer a question
 -	Upvote or downvote a question or an answer
--	Edit a question or an answer
--	Delete his own question/answer
+-	Edit or delete his own question/answer
 -	Approve of a single answer on his asked question
 -	Earn  badges (Reputation points)
 
+
 A moderator is able to do the same as a normal user, plus :
-- Edite question/answers
+- Edit questions/answers
 -	Delete questions/answers
 
 Finally, the language of the application can be chosen by clicking on English or French at the beginning ( before logging in )
