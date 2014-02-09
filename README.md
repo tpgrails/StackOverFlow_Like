@@ -25,5 +25,5 @@ A user is able to :
 
 A moderator is able to do the same as a normal user, plus :
 -	Delete questions/answers
--	
+
 Finally, the language of the application can be chosen by clicking on English or French at the beginning ( before logging in )
