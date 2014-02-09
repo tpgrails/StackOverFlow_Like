@@ -12,14 +12,14 @@
 		<div class="nav" role="navigation">
 			<ul>
 				<li><g:link class="home" controller="question" action="list"><g:message code="default.home.label"/></g:link></li>
-				<li><g:link class="create" action="create"><g:message code="default.new.label" args="[entityName]" /></g:link></li>
+				<li><g:link class="create" action="create"><g:message code="default.new.label.question" args="[entityName]" /></g:link></li>
 				<li><g:link controller="user" action="logout"><g:message code="default.logout" args="${[session.user]}" /></g:link></li>
 				
 				
 			</ul>
 		</div>
 		<div id="list-question" class="content scaffold-list" role="main">
-			<h1><g:message code="default.list.label" args="[entityName]" /></h1>
+			<h1><g:message code="question.list.label" /></h1>
 			<g:if test="${flash.message}">
 			<div class="message" role="status">${flash.message}</div>
 			</g:if>
